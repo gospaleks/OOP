@@ -1,0 +1,5 @@
+4 4
+x o p x
+p o x x
+x x x o
+o p o x
