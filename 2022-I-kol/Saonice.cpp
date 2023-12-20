@@ -68,7 +68,7 @@ double Saonice::srednjaCena()
 	for (int i = 0; i < top; ++i)
 		if (niz[i] != nullptr)
 			rez += niz[i]->vratiCenu();
-	return rez;
+	return (rez/top);
 }
 
 Paketic* Saonice::vratiNajteziPaketic()
