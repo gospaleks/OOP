@@ -1,0 +1,120 @@
+PRAVOUGAONIK
+koordinate x i y su: 5 4
+sirina stranice je: 4
+visina je: 5
+povrsina je: 20
+obim je: 18
+
+KVADRAT
+koordinate x i y su: 6 0
+stranica je: 5
+povrsina je: 25
+obim je: 20
+
+PRAVOUGAONIK
+koordinate x i y su: 9.6 7.8
+sirina stranice je: 5.1
+visina je: 12.3
+povrsina je: 62.73
+obim je: 34.8
+
+KVADRAT
+koordinate x i y su: 4.7 3.8
+stranica je: 15
+povrsina je: 225
+obim je: 60
+
+prazno mesto
+PRAVOUGAONIK
+koordinate x i y su: 5 4
+sirina stranice je: 4
+visina je: 5
+povrsina je: 20
+obim je: 18
+
+KVADRAT
+koordinate x i y su: 6 0
+stranica je: 5
+povrsina je: 25
+obim je: 20
+
+PRAVOUGAONIK
+koordinate x i y su: 9.6 7.8
+sirina stranice je: 5.1
+visina je: 12.3
+povrsina je: 62.73
+obim je: 34.8
+
+KVADRAT
+koordinate x i y su: 4.7 3.8
+stranica je: 15
+povrsina je: 225
+obim je: 60
+
+KVADRAT
+koordinate x i y su: 3 2
+stranica je: 5
+povrsina je: 25
+obim je: 20
+
+PRAVOUGAONIK
+koordinate x i y su: 4 1
+sirina stranice je: 6
+visina je: 5
+povrsina je: 30
+obim je: 22
+
+prazno mesto
+PRAVOUGAONIK
+koordinate x i y su: 5 4
+sirina stranice je: 4
+visina je: 5
+povrsina je: 20
+obim je: 18
+
+KVADRAT
+koordinate x i y su: 6 0
+stranica je: 5
+povrsina je: 25
+obim je: 20
+
+PRAVOUGAONIK
+koordinate x i y su: 9.6 7.8
+sirina stranice je: 5.1
+visina je: 12.3
+povrsina je: 62.73
+obim je: 34.8
+
+KVADRAT
+koordinate x i y su: 4.7 3.8
+stranica je: 15
+povrsina je: 225
+obim je: 60
+
+KVADRAT
+koordinate x i y su: 3 2
+stranica je: 5
+povrsina je: 25
+obim je: 20
+
+PRAVOUGAONIK
+koordinate x i y su: 4 1
+sirina stranice je: 6
+visina je: 5
+povrsina je: 30
+obim je: 22
+
+KVADRAT
+koordinate x i y su: 9 9
+stranica je: 9
+povrsina je: 81
+obim je: 36
+
+KVADRAT
+koordinate x i y su: 10 10
+stranica je: 10
+povrsina je: 100
+obim je: 40
+
+prazno mesto
+prazno mesto
