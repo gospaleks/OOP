@@ -1,0 +1,29 @@
+PRODATE KARTE(3):
+
+Dnevna-Karta:(1):
+REDNI BROJ DANA:         5
+BROJ DANA VAZENJA:       20
+OSNOVNA CENA KARTE:      2500
+POPUST:                  250
+#####################################-KRAJ
+
+Dnevno-Nocna-Karta:(2):
+REDNI BROJ DANA:         10
+BROJ DANA VAZENJA:       10
+OSNOVNA CENA KARTE:      1250
+POPUST:                  150
+OSNOVNA CENA NOCNE:      1000
+BROJ NOCI VAZENJA:       10
+#####################################-KRAJ
+
+Dnevno-Nocna-Karta:(3):
+REDNI BROJ DANA:         8
+BROJ DANA VAZENJA:       30
+OSNOVNA CENA KARTE:      3125.99
+POPUST:                  500
+OSNOVNA CENA NOCNE:      2150
+BROJ NOCI VAZENJA:       29
+#####################################-KRAJ
+
+________________________________________________________________-KRAJ PREDUZECE
+
