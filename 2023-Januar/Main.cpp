@@ -9,6 +9,9 @@ using namespace std;
 
 int main()
 {
+	// IMA SAMO TRI KARTE MRZI ME DA DODAJEM
+
+	
 	ifstream ulaz("ulaz.txt");
 	if (ulaz.good()) {
 
