@@ -1,0 +1,36 @@
+SADRZAJ PAKETA:
+
+KutijaCokolade           
+MASA AMBALAZE:           100
+UKUPAN BROJ COKOLADA:    5
+MASA JEDNE COKOLADE:     80
+
+KutijaCokolade           
+MASA AMBALAZE:           100
+UKUPAN BROJ COKOLADA:    10
+MASA JEDNE COKOLADE:     100
+
+KutijaCokolade           
+MASA AMBALAZE:           250
+UKUPAN BROJ COKOLADA:    9
+MASA JEDNE COKOLADE:     300
+
+KutijaCokolade           
+MASA AMBALAZE:           80
+UKUPAN BROJ COKOLADA:    3
+MASA JEDNE COKOLADE:     85
+
+FlasaPice                
+MASA AMBALAZE:           275
+MASA PRAZNE FLASE:       200
+GUSTINA PICA:            23
+ZAPREMINA:               1
+
+FlasaPice                
+MASA AMBALAZE:           200
+MASA PRAZNE FLASE:       400
+GUSTINA PICA:            23
+ZAPREMINA:               1.75
+
+############################################-KRAJ
+
