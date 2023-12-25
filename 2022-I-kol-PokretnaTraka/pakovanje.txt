@@ -1,0 +1,38 @@
+Kondenzator
+BARKOD:        111111
+KAPACITIVNOST: 0
+
+Otpornik
+BARKOD:        123456
+OTPORNOST:     9999
+MIN TEMP:      1
+MAX TEMP:      10
+
+Kondenzator
+BARKOD:        333333
+KAPACITIVNOST: 5200
+
+Otpornik
+BARKOD:        222222
+OTPORNOST:     10000
+MIN TEMP:      2
+MAX TEMP:      20
+
+Kondenzator
+BARKOD:        555555
+KAPACITIVNOST: 7000
+
+Otpornik
+BARKOD:        666666
+OTPORNOST:     12000
+MIN TEMP:      2
+MAX TEMP:      31
+
+Kondenzator
+BARKOD:        777777
+KAPACITIVNOST: 500
+
+Kondenzator
+BARKOD:        888888
+KAPACITIVNOST: 400
+
