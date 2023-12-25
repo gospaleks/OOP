@@ -1,0 +1,7 @@
+Automobili
+4
+4
+Automobil_1 PI-022-MO 130 7 5
+Automobil_2 PI-018-XO 220 9 5
+Automobil_3 NI-123-PB 190 8.65 5
+Automobil_4 BO-056-SS 175 13.11 5
