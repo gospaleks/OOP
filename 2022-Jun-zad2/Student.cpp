@@ -24,24 +24,25 @@ Student::Student(const char* iindeks, const char* iime, const char* pprezime, fl
 	zauzmi(iindeks, iime, pprezime, pprosek);
 }
 
+// TREBALO BI DA SE NAPRAVI POM F-JA void OslobodiMem(); JER IMA DUPLIRANJE KODA
 Student::~Student()
 {
 	if (indeks != nullptr)
-		delete indeks;
+		delete [] indeks;
 	if (ime != nullptr)
-		delete ime;
+		delete [] ime;
 	if (prezime != nullptr)
-		delete prezime;
+		delete [] prezime;
 }
 
 Student::Student(const Student& s)
 {
 	if (indeks != nullptr)
-		delete indeks;
+		delete [] indeks;
 	if (ime != nullptr)
-		delete ime;
+		delete [] ime;
 	if (prezime != nullptr)
-		delete prezime;
+		delete [] prezime;
 	zauzmi(s.indeks, s.ime, s.prezime, s.prosek);
 }
 
@@ -58,9 +59,12 @@ bool Student::operator>(Student& s)
 Student& Student::operator=(Student& s)
 {
 	if (this != &s) {
-		delete indeks;
-		delete ime;
-		delete prezime;
+		if (indeks != nullptr)
+			delete [] indeks;
+		if (ime != nullptr)
+			delete [] ime;
+		if (prezime != nullptr)
+			delete [] prezime;
 		zauzmi(s.indeks, s.ime, s.prezime, s.prosek);
 	}
 	return *this;
