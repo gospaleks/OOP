@@ -40,6 +40,7 @@ public:
 			T* t = new T();
 			ulaz >> *t;
 			s.Dodaj(*t);
+			delete t;
 		}
 		return ulaz;
 	}
