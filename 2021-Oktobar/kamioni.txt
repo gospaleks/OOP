@@ -1,7 +1,0 @@
-Kamioni
-4
-4
-Kamion_1 PI-052-GO 130 15 15
-Kamion_2 PO-064-XA 220 13 25
-Kamion_3 NI-123-PB 190 16.66 22
-Kamion_4 BO-056-SS 175 21.1 21

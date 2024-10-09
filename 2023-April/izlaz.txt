@@ -1,9 +1,0 @@
-Trenutni broj paragrafa: 6
-Max broj paragrafa: 7
----------------------------
-iken fargarap 2 tseT
-tEST1 paraGRAF
-TEST 3 PARAgRAF JOS jedan
-aleksandar iken tepo
-jos NEKI
-TEP icarokerp ovo

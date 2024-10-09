@@ -1,8 +1,0 @@
-8
-6
-jagoda 0.2 50
-jabuka 0.2 70
-jagoda 0.5 50
-jagoda 0.5 50
-jagoda 1 50
-jagoda 1 50

@@ -1,5 +1,0 @@
-4
-1 Bec 20 3 6000 AirSerbia 30 3000
-2 Beograd 20 2 2000 297 203 7 0
-2 Pirot 20 1 1500 77 203 7 0
-1 London 25 5 15550 AirSerbia 150 4500
