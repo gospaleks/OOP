@@ -1,0 +1,85 @@
+GLUMAC: 
+Redni Broj: 1
+Ime: Veljko
+Prezime: Najdanovic
+Poeni Publike: 51
+Broj Rekvizita: 34
+Broj poena zirija za ideju: 26
+Broj poena zirija za izvodjenje: 27
+
+
+GLUMAC: 
+Redni Broj: 2
+Ime: Aleksandar
+Prezime: Sasa
+Poeni Publike: 61
+Broj Rekvizita: 44
+Broj poena zirija za ideju: 44
+Broj poena zirija za izvodjenje: 32
+
+
+PEVAC: 
+Redni Broj: 3
+Ime: Marjana
+Prezime: Torbica
+Poeni Publike: 99
+Pesma: Kocke Leda
+Broj Instrumenata: 55
+Broj Pratecih Vokala: 23
+Poeni Muzickog Zirija: 55
+
+
+PEVAC: 
+Redni Broj: 4
+Ime: Aca
+Prezime: Lukas
+Poeni Publike: 99
+Pesma: Nesto protiv bolova
+Broj Instrumenata: 1
+Broj Pratecih Vokala: 0
+Poeni Muzickog Zirija: 100
+
+
+------------------------------------------------
+PEVAC: 
+Redni Broj: 4
+Ime: Aca
+Prezime: Lukas
+Poeni Publike: 99
+Pesma: Nesto protiv bolova
+Broj Instrumenata: 1
+Broj Pratecih Vokala: 0
+Poeni Muzickog Zirija: 100
+
+
+GLUMAC: 
+Redni Broj: 1
+Ime: Veljko
+Prezime: Najdanovic
+Poeni Publike: 51
+Broj Rekvizita: 34
+Broj poena zirija za ideju: 26
+Broj poena zirija za izvodjenje: 27
+
+
+GLUMAC: 
+Redni Broj: 2
+Ime: Aleksandar
+Prezime: Sasa
+Poeni Publike: 61
+Broj Rekvizita: 44
+Broj poena zirija za ideju: 44
+Broj poena zirija za izvodjenje: 32
+
+
+PEVAC: 
+Redni Broj: 3
+Ime: Marjana
+Prezime: Torbica
+Poeni Publike: 99
+Pesma: Kocke Leda
+Broj Instrumenata: 55
+Broj Pratecih Vokala: 23
+Poeni Muzickog Zirija: 55
+
+

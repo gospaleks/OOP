@@ -1,0 +1,11 @@
+najveca aktivnost je 
+boja dresa:         z
+broj ulaznica:      50
+cena ulaznice:      1000
+budzet:             50000
+aktivnost:          100000
+broj sponzora:      3
+sponzori:
+meridijan
+mozzart
+maxbet

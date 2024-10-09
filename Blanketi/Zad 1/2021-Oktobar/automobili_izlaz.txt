@@ -1,0 +1,37 @@
+TIP VOZNOG PARKA:        Automobili
+KAPACITET:               6
+TR BR VOZILA:            5
+
+
+NAZIV:                   Automobil_1
+REGISTRACIJA:            PI-022-MO
+MAX BRZINA(km/h):        130
+POTROSNJA(l/km):         7
+MAX BR PUTNIKA:          5
+
+NAZIV:                   Automobil_2
+REGISTRACIJA:            PI-018-XO
+MAX BRZINA(km/h):        220
+POTROSNJA(l/km):         9
+MAX BR PUTNIKA:          5
+
+NAZIV:                   Automobil_3
+REGISTRACIJA:            NI-123-PB
+MAX BRZINA(km/h):        190
+POTROSNJA(l/km):         8.65
+MAX BR PUTNIKA:          5
+
+NAZIV:                   Automobil_4
+REGISTRACIJA:            BO-056-SS
+MAX BRZINA(km/h):        175
+POTROSNJA(l/km):         13.11
+MAX BR PUTNIKA:          5
+
+NAZIV:                   BMW
+REGISTRACIJA:            PI-000-AA
+MAX BRZINA(km/h):        320
+POTROSNJA(l/km):         11.12
+MAX BR PUTNIKA:          2
+
+#########################################-KRAJ
+

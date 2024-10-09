@@ -1,0 +1,2 @@
+Podaci o najmanje vrednoj aktivnosti:
+12 10 peraja 30000 0.5

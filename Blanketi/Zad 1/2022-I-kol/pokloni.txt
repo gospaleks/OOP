@@ -1,0 +1,7 @@
+SADRZAJ SAONICA:
+Takovksa 46, Plav, 10, 1.24, 123.99
+Sremska 4, Crven, 5, 100, 220.46
+Stevana Sremca 50, Ljubicast, 4, 120, 12.46
+Bulevar Zorana Djindjica 17, Zut, 19, 32, 512.46
+Dusanova 136A, Crn, 1, 99, 250.96
+Aleksandra Medvedeva 14, Plav, 13, 30, 11.46

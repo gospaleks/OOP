@@ -1,0 +1,47 @@
+termin 1 je za:
+Stvarni posetilac:
+1 - broj termina
+Jovan Bogdanovic - ime prezime
+student - radni status
+50 - broj odgovora
+50 - popust
+50 - zainteresovanost150 - cena
+
+termin 2 je za:
+Virtuelni posetilac:
+2 - broj termina
+Mirko Mirkovic - ime prezime
+3 - broj sati
+1 - broj komentara
+3 - zainteresovanost
+300 - cena
+
+termin 3 je za:
+Stvarni posetilac:
+3 - broj termina
+Pera Petrovic - ime prezime
+radi - radni status
+30 - broj odgovora
+100 - popust
+30 - zainteresovanost100 - cena
+
+termin 4 je PRAZAN
+
+termin 5 je za:
+Stvarni posetilac:
+5 - broj termina
+Marko Markovic - ime prezime
+ne radi - radni status
+10 - broj odgovora
+30 - popust
+10 - zainteresovanost170 - cena
+
+termin 6 je za:
+Virtuelni posetilac:
+6 - broj termina
+Vojin Jevtovic - ime prezime
+1 - broj sati
+2 - broj komentara
+2 - zainteresovanost
+100 - cena
+
